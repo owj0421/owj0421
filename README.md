@@ -20,8 +20,8 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## ✉️ Contact
-- Email: owj0421@naver.com
+## ✉️ Contacts
+- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:owj0421@naver.com)](mailto:owj0421@naver.com)
 
 ## ✨ Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owj0421)](https://solved.ac/owj0421/)
