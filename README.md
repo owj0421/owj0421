@@ -1,17 +1,29 @@
-### Hi there 👋 I'm Wonjun, Oh!
+# Hi there 👋 I'm Wonjun, Oh!
 
-## Interest
-- Recommender Systems
-- Natural Language Processing
-- Machine Learning & Deep Learning
+## 🥰 Interest
+
+- **Recommender Systems**
+- **Natural Language Processing**
+- **Machine Learning & Deep Learning**
 
 ## 🎓 Education
-- Korea University(2019. 3. - )
-  - Dept. of Computer Science & Engineering
-- Choongang High-school
-- 
-Advanced: Projects Level
-Intermediate: School Level
+
+- **Korea University, Dept. of Computer Science & Engineering** (2019. 2. - )
+- **Choongang High School** (2016. 2. - 2019. 2.)
+
+## **🛠️ Skills**
+
+<aside>
+🧑‍💻
+**Advanced**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Intermediate**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+</aside>
+
+
+
+
 ### Language
 **Advanced**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
