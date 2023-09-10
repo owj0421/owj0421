@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Wonjun, Oh!
 
+## Interest
+- Recommender Systems
+- Natural Language Processing
+- Machine Learning & Deep Learning
+
+## 🎓 Education
+- Korea University(2019. 3. - )
+  - Dept. of Computer Science & Engineering
+- Choongang High-school
+- 
 Advanced: Projects Level
 Intermediate: School Level
 ### Language
