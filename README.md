@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Wonjun, Oh!
 
 ## 🥰 Interest
-- **Recommender Systems**
-- **Natural Language Processing**
-- **Machine Learning & Deep Learning**
+- **Recommender Systems** | 추천시스템
+- **Natural Language Processing** | 자연어처리
+- **Machine Learning & Deep Learning** | 머신러닝 & 딥러닝
 
 ## 🎓 Education
-- Undergraduate in **Dept. of Computer Science & Engineering @ Korea University** (2019. 2. - )
-- **Choongang High School** (2016. 2. - 2019. 2.)
+- Undergraduate in **Computer Science & Engineering @ Korea University** (2019. 2. - ) | 고려대학교 정보대학 컴퓨터학과
+- **Choongang High School** (2016. 2. - 2019. 2.) | 중앙고등학교
 
 ## 🏃‍♂️ Experiences
-- Leader @ **AIKU, Korea University AI Society** (2022. 9. ~ 2023. 7.)
+- Leader @ **AIKU, Korea University AI Society** (2022. 9. ~ 2023. 7.) | 학회장, 고려대학교 딥러닝학회 AIKU
 
 ## 🛠️ Skills
 - Language <br>
