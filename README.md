@@ -6,11 +6,11 @@
 - **Machine Learning & Deep Learning** | 머신러닝 & 딥러닝
 
 ## 🎓 Education
-- (2019. 02. - 0000. 00.) Undergraduate in **Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
-- (2016. 02. - 2019. 02.) **Choongang High School** | 중앙고등학교
+- (2019. 02. - 0000. 00.) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과 학부 재학 중
+- (2016. 02. - 2019. 02.) **Graduated @ Choongang High School** | 중앙고등학교 졸업
 
 ## 🏃‍♂️ Experiences
-- (2022. 09. ~ 2023. 07.) Leader @ **AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
+- (2022. 09. ~ 2023. 07.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
 
 ## 🛠️ Skills
 - Language <br>
