@@ -6,7 +6,7 @@
 - **Machine Learning & Deep Learning**
 
 ## 🎓 Education
-- **Korea University, Dept. of Computer Science & Engineering** (2019. 2. - )
+- Undergraduate in **Dept. of Computer Science & Engineering @ Korea University** (2019. 2. - )
 - **Choongang High School** (2016. 2. - 2019. 2.)
 
 ## 🏃‍♂️ Experiences
