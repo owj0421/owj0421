@@ -21,7 +21,7 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## ✉️ Contact
-owj0421@naver.com
+- Email: owj0421@naver.com
 
 ## ✨ Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owj0421)](https://solved.ac/owj0421/)
