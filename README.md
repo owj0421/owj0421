@@ -9,6 +9,9 @@
 - **Korea University, Dept. of Computer Science & Engineering** (2019. 2. - )
 - **Choongang High School** (2016. 2. - 2019. 2.)
 
+## 🏃‍♂️ Experiences
+- Leader @ **AIKU, Korea University AI Society** (2022. 9. ~ 2023. 7.)
+
 ## 🛠️ Skills
 - Language <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
