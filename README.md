@@ -21,7 +21,7 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 📫 Contacts
-&emsp;&emsp;&emsp;&emsp;[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logoColor=white&link=mailto:owj0421@naver.com)](mailto:owj0421@naver.com)
+&emsp;&emsp;[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logoColor=white&link=mailto:owj0421@naver.com)](mailto:owj0421@naver.com)
 
 ## ✨ Stats
 &nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owj0421)](https://solved.ac/owj0421/)
