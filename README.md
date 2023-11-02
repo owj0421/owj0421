@@ -12,6 +12,11 @@
 ## 🏃‍♂️ Experiences
 - (2022. 09. ~ 2023. 07.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
 
+## 🎖 Awards
+- (2023. 10.) **tmp** | tmp - 1등
+- (2023. 02.) **1st AIKUTHON - 1st Place Award** | 제1회 AIKUTHON - 1등
+- (2023. 02.) **1st YCC X KUCC AI Boot Camp Team Project - 1st Place Award** | 제1회 YCC X KUCC AI 부트캠프 팀 프로젝트 - 1등
+
 ## 🛠️ Skills
 - Language <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
