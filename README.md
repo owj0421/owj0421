@@ -6,16 +6,16 @@
 - **Machine Learning & Deep Learning** | 머신러닝 & 딥러닝
 
 ## 🎓 Education
-- (2019. 02. - &emsp;&emsp;&emsp;&emsp;) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
+- (2019. 02. - ) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
 - (2016. 02. - 2019. 02.) **Graduated @ Choongang High School** | 중앙고등학교
 
 ## 🏃‍♂️ Experiences
-- (2022. 09. ~ 2023. 07.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
+- (2022. 09. ~ 2023. 07.) **Leader @ AIKU, Korea University AI Society**       | 학회장, 고려대학교 딥러닝학회 AIKU
 
 ## 🎖 Awards
-- (2023. 10.) **2023 Korean AI Contest - _ Award (_th Place out of 108)**    | 2023 한국어 AI 경진대회 - _상(108명 중 _등) 
-- (2023. 02.) **1st AIKUTHON - 1st Place Award**                             | 제1회 AIKUTHON - 1등
-- (2023. 02.) **1st YCC X KUCC AI Boot Camp Team Project - 1st Place Award** | 제1회 YCC X KUCC AI 부트캠프 팀 프로젝트 - 1등
+- (2023. 10.) **2023 Korean AI Contest - _ Award (_th Place out of 108)**      | 2023 한국어 AI 경진대회 - _상(108명 중 _등) 
+- (2023. 02.) **1st AIKUTHON - 1st Place Award**                               | 제1회 AIKUTHON - 1등
+- (2023. 02.) **1st YCC X KUCC AI Boot Camp Team Project - 1st Place Award**   | 제1회 YCC X KUCC AI 부트캠프 팀 프로젝트 - 1등
 
 ## 🛠️ Skills
 - Language <br>
