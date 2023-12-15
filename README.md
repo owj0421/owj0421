@@ -6,7 +6,8 @@
 - **Machine Learning & Deep Learning** | 머신러닝 & 딥러닝
 
 ## 🎓 Education
-- (2019. 02. ~ ) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
+- (2023. 02. ~ ) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
+- (2019. 02. ~ 2023. 02.) **Undergraduate in Architecture @ Korea University** | 고려대학교 공과대학 건축학과(전과)
 - (2016. 02. - 2019. 02.) **Graduated @ Choongang High School** | 중앙고등학교
 
 ## 🏃‍♂️ Experiences
