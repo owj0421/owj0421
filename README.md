@@ -3,7 +3,7 @@
 ## 🥰 Interest
 - **Recommender Systems** | 추천시스템
 - **Natural Language Processing** | 자연어처리
-- **Machine Learning & Deep Learning** | 머신러닝 & 딥러닝
+- **Representation Learning** | 표현학습
 
 ## 🎓 Education
 - (2023. 02. ~ ) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
