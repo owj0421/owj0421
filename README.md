@@ -6,9 +6,8 @@
 - **Representation Learning** | 특징학습
 
 ## 🎓 Education
-- (2023. 02. ~ ) **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
-- (2019. 02. ~ 2023. 02.) **Undergraduate in Architecture @ Korea University** | 고려대학교 공과대학 건축학과
-- (2016. 02. - 2019. 02.) **Graduated @ Choongang High School** | 중앙고등학교
+- **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
+- **Graduated @ Choongang High School** | 중앙고등학교
 
 ## 🏃‍♂️ Experiences
 - (2023. 07. ~ 2023. 12.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
