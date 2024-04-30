@@ -1,9 +1,8 @@
 # Hi there 👋 I'm Wonjun, Oh!
 
 ## 🥰 Interest
-- **Recommender Systems** | 추천시스템
-- **Natural Language Processing** | 자연어처리
-- **Representation Learning** | 특징학습
+- **Recommender Systems**: Contents based methods(for cold-start)
+- **Natural Language Processing**: LLMs, RAG, Embedding, Document modeling
 
 ## 🎓 Education
 - **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
@@ -13,6 +12,7 @@
 - (2023. 07. ~ 2023. 12.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
 
 ## 🎖 Awards
+- (2024. 4.) **** | 2023 LG Aimers 4기 Hackathon - 본선진출(예선 30/1500) 
 - (2023. 10.) **2023 Korean AI Contest - NIA Presidential Award (7st Place/108)** | 2023 한국어 AI 경진대회 - NIA원장상(7등/108) 
 - (2023. 02.) **1st AIKUTHON - 1st Place Award** | 제1회 AIKUTHON - 1등
 - (2023. 02.) **1st YCC X KUCC AI Boot Camp Team Project - 1st Place Award** | 제1회 YCC X KUCC AI 부트캠프 팀 프로젝트 - 1등
