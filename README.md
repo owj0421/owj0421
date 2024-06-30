@@ -8,8 +8,9 @@
 - **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
 
 ## 🏃‍♂️ Experiences
-- (2024. 03. ~ ) **Research Intern @ [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/)** | 학부연구생, 고려대학교 Multimodal Interactive Intelligence Laboratory (MIIL)
-- (2023. 07. ~ 2023. 12.) **Leader @ AIKU, Korea University AI Society** | 학회장, 고려대학교 딥러닝학회 AIKU
+- (2024. 03. ~ ) **Data Engineering Intern @ LS Electric DX LAB**
+- (2024. 03. ~ ) **Research Intern @ [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/)**
+- (2023. 07. ~ 2023. 12.) **Leader @ AIKU, Korea University AI Society**
 
 ## 🎖 Awards
 - (2023. 10.) **2023 Korean AI Contest - NIA Presidential Award (7st Place/108)** | 2023 한국어 AI 경진대회 - NIA원장상(7등/108) 
