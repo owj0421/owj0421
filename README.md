@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Wonjun, Oh!
 
 ## 🥰 Interest
+- **Natural Language Processing**: LLMs, RAG, Retrieval, Document AI
 - **Recommender Systems**: Contents based methods(for cold-start)
-- **Natural Language Processing**: LLMs, RAG, Embedding, Document modeling
 
 ## 🎓 Education
-- **Undergraduate in Computer Science & Engineering @ Korea University** | 고려대학교 정보대학 컴퓨터학과
+- **Undergraduate in Computer Science & Engineering @ Korea University**
 
 ## 🏃‍♂️ Experiences
 - (2024. 03. ~ ) **Data Engineering Intern @ LS Electric DX LAB**
