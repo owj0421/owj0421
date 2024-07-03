@@ -8,7 +8,7 @@
 - **Undergraduate in Computer Science & Engineering @ Korea University**
 
 ## 🏃‍♂️ Experiences
-- (2024. 03. ~ ) **Data Engineering Intern @ LS Electric DX LAB**
+- (2024. 03. ~ ) **Research Intern @ LS Electric DX LAB**
 - (2024. 03. ~ ) **Research Intern @ [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/)**
 - (2023. 07. ~ 2023. 12.) **Leader @ AIKU, Korea University AI Society**
 
