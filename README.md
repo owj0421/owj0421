@@ -17,15 +17,6 @@
 - (2023. 02.) **1st AIKUTHON - 1st Place Award** | 제1회 AIKUTHON - 1등
 - (2023. 02.) **1st YCC X KUCC AI Boot Camp Team Project - 1st Place Award** | 제1회 YCC X KUCC AI 부트캠프 팀 프로젝트 - 1등
 
-## 🛠️ Skills
-- Language <br>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-- Stack <br>
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ## 📫 Contacts
 &emsp;&emsp;[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logoColor=white&link=mailto:owj0421@naver.com)](mailto:owj0421@naver.com)
 
